@@ -124,4 +124,3 @@ int main(void)
 .SH SEE ALSO
 .R printf(3)
 .SH AUTHORS
-Written by \fBChimezie Onwudiwe\fR and \fBMonica Ushie\fR.
